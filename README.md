@@ -7,8 +7,8 @@
 Nobody wants to do the key system for fake 100 sUNC.
 
 # How To Use
-1. Download [NezurPatcher.zip](https://github.com/WalmartSolutions/Nezur-Patcher/raw/refs/heads/main/NezurPatcher.zip)
-2. Unzip NezurPatcher.zip.
+1. Download [NezurPatcher.zip](https://github.com/WalmartSolutions/Nezur-Patcher/raw/refs/heads/main/NezurPatcher.zip) & [Nezur_Executor.zip](https://nezur.io/Nezur_Executor.zip)
+2. Unzip NezurPatcher.zip & Nezur_Executor.zip.
 3. Run Nezur-Patcher.exe.
 4. Drag in Nezur_Interface.dll from your Nezur Executor folder.
 5. Press Enter
